@@ -284,4 +284,3 @@ while True:
         ball.sety(-290)
         ball.dy *= -1
 
-    if ball.
